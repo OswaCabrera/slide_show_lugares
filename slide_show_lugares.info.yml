@@ -1,0 +1,4 @@
+name: Slide Show para Lugares
+type: module
+description: 'Slide show de fotos y videos para lugares.'
+core_version_requirement: ^9 || ^10
